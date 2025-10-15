@@ -1,6 +1,7 @@
 # nba-ai-agent
 # AI Agent for NBA Accreditation (RAG-Based)
 This project presents an AI-powered assistant designed to simplify the NBA (National Board of Accreditation) accreditation process using IBM Granite and Retrieval-Augmented Generation (RAG).
+hi hello i modified this on github
 ## 📁 Files Included
 - NBA_AI_Agent_Presentation.pptx – Final project presentation
 - Screenshots included in the Results section of the presentation
